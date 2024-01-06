@@ -1,5 +1,5 @@
-# Programming-and-Numerical-Methods-for-Economics, All coursework Graded as a First (top grade bracket)
-This folder contains some of my coursework completed in Python with a partener for the Programming for Economics Module. It contains the following Jupyter notebook files.
+# Programming-and-Numerical-Methods-for-Economics 
+This folder contains some of my coursework completed in Python with a partener for the Programming for Economics Module. Below is a summary of each piece of coursework. All coursework Graded as a First (top grade bracket)
 
 ## Optimisation Methods on Rosenbrock and Maximum Likelihood funcitons
 Manually programmed and implemented various constrained optimistion algorithms, including Newton's sequential quadtratic programming algorithm, the penalty method, augmented lagrangian method and parameter transformation. Used and compared effectiveness of these methods to fit maximum likelihood model for labour force data estimation based on NLSY79
